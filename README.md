@@ -6,7 +6,7 @@ cd admin-sniper
 
 pip3 install -r requirements.txt
 
-python3 admin-sniper
+python3 admin-sniper.py
 
 
 
