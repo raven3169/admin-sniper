@@ -1,4 +1,4 @@
-NOTE:İLLEGAL OLARAK KULLANMAYIN SONRA BENİ SİKİYOLAR
+NOTE:İLLEGAL OLARAK KULLANANIN BAVE TENİM
 
 git clone https://github.com/raven3169/admin-sniper.git
 
